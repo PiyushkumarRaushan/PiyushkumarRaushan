@@ -3,7 +3,7 @@
 I am a passionate **Backend Development & AI/ML Student** focused on building robust APIs, scalable web applications, and intelligent systems. I love bridging the gap between backend engineering and data-driven applications.
 
 - 🔭 I’m currently exploring **FastAPI, Artificial Intelligence / Machine Learning, and System Design**.
-- 💡 Working extensively with **Python, Java, and C++** for development and problem-solving.
+- 💡 Working extensively with **Python and Java** for development and problem-solving.
 - 🧠 Solving Data Structures & Algorithms (DSA) daily to strengthen core computer science fundamentals.
 - ⚡ Fun fact: I enjoy turning complex logic into clean, efficient code.
 
